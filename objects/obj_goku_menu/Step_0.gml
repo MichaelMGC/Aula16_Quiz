@@ -1,7 +1,7 @@
 if (gra){
-	vspeed+=.01
+	vspeed+=vel
 }else {
-	vspeed-=.01
+	vspeed-=vel
 }
 
 if (vspeed>.2){
