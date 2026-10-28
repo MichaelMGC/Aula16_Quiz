@@ -1,0 +1,6 @@
+draw_self()
+draw_set_font(fnt_balao)
+draw_set_colour(c_black)
+squiggle_draw_text(x+8,y+8,dialog[quest])
+draw_set_font(-1)
+draw_set_colour(-1)

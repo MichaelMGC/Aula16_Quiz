@@ -33,7 +33,11 @@
   "name":"Aula16_Quiz",
   "resources":[
     {"id":{"name":"tween_curves","path":"animcurves/tween_curves/tween_curves.yy",},},
+    {"id":{"name":"fnt_balao","path":"fonts/fnt_balao/fnt_balao.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"obj_b_nao","path":"objects/obj_b_nao/obj_b_nao.yy",},},
+    {"id":{"name":"obj_b_sim","path":"objects/obj_b_sim/obj_b_sim.yy",},},
+    {"id":{"name":"obj_balao","path":"objects/obj_balao/obj_balao.yy",},},
     {"id":{"name":"obj_boton","path":"objects/obj_boton/obj_boton.yy",},},
     {"id":{"name":"obj_exemplo_botao_sobre","path":"objects/obj_exemplo_botao_sobre/obj_exemplo_botao_sobre.yy",},},
     {"id":{"name":"obj_exemplo_botao","path":"objects/obj_exemplo_botao/obj_exemplo_botao.yy",},},
