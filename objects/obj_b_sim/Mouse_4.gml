@@ -13,7 +13,31 @@ if (_quest==1){
 	}
 }else if (_quest==4){
 	with(obj_balao){
-		quest=5
+		quest=13
+	}
+}else if (_quest==7 ){
+	with(obj_balao){
+		quest=2
+	}
+}else if (_quest==9 ){
+	with(obj_balao){
+		quest=6
+	}
+}else if (_quest==6 ){
+	with(obj_balao){
+		quest=11
+	}
+}else if (_quest==5 ){
+	with(obj_balao){
+		quest=14
+	}
+}else if (_quest>9 ){
+	with(obj_balao){
+		quest=7
+	}
+}else if (_quest>8 ){
+	with(obj_balao){
+		quest=2
 	}
 }
 	

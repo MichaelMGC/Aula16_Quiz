@@ -14,10 +14,26 @@ dialog = [
 	//	4
 	"Ele usa oculos ?",
 	//	5
-	"É o Saturo Gojo",
+	"Tem uma cicatriz na testa ?",
 	//	6
-	"É o Naruto"
-	
-	
+	"Usa um chapel ?",
+	//	7
+	"Eu Sabia hahaha"+"\nQuer jogar novamente?",
+	//	8
+	"Certo,posso tentar de novo?",
+	//	9
+	"Ele tem cabelo preto ?",
+	//	10
+	"É o Naruto",
+	//	11
+	"É o garoto que estica ,"+"\n LUffY !",
+	//	12
+	"Acho que é o Subaru",
+	//	13
+	"É o Saturo Gojo",
+	//	14
+	"É o Tangiro",
+	//	15
+	"So pode ser o Midoria"
 ]
 quest=0
