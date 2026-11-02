@@ -1,4 +1,5 @@
 var _quest = obj_balao.quest
+audio_play_sound(snd_click,1,0)
 if (_quest==1){
 	with(obj_balao){
 		quest=2
@@ -34,6 +35,10 @@ if (_quest==1){
 }else if (_quest>9 ){
 	with(obj_balao){
 		quest=7
+	}
+}else if (_quest==8 ){
+	with(obj_balao){
+		quest=2
 	}
 }else if (_quest>8 ){
 	with(obj_balao){

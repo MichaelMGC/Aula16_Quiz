@@ -1,4 +1,5 @@
 var _quest = obj_balao.quest
+audio_play_sound(snd_click,1,0)
 if (_quest==1 or _quest==2){
 	room_goto_previous()
 }else if (_quest==3){
@@ -27,6 +28,8 @@ if (_quest==1 or _quest==2){
 	with(obj_balao){
 		quest=8
 	}
+}else if (_quest==8 ){
+	room_goto_previous()
 }else if (_quest>8 ){
 	room_goto_previous()
 }
